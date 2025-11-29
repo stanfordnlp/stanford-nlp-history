@@ -1,9 +1,10 @@
 ---
-title: Origins of the Stanford NLP Group
-date: 2025-11-21
-categories: [group, history]
-tags: [history, origins] 
-description: A history of the Stanford NLP Group written for its 25th anniversary
+title: Origins of the group
+layout: page
+keywords: history, origins
+# permalink: '/origins.html'
+nav_order: 2
+# parent: Introduction
 ---
 
 # Origins of the Stanford NLP Group: 1999–2003
@@ -15,9 +16,11 @@ early photos of Chris at Stanford from the Fall 1999 CS Department
 Retreat taken by Héctor García-Molina. 
 
 ![Desktop View](/assets/images/CSretreat1999-2.jpg)
+
 _Christopher Manning with Daphne Koller_
 
 ![Desktop View](/assets/images/CSretreat1999-6.jpg)
+
 _Chris, then CS department chair Jean-Claude Latombe, department manager Peche Turner,
 and Professor Héctor García-Molina_
 
@@ -29,6 +32,7 @@ then Dan Klein.
 
 ![Desktop View](/assets/images/Toutanova-Kristina-160.jpg)
 _Kristina Toutanova_
+&nbsp;
 ![Desktop View](/assets/images/Klein-Dan-160.jpg)
 _Dan Klein_
 
@@ -41,13 +45,13 @@ but later a PhD student).
 
 ![Desktop View](/assets/images/Kamvar160.jpg)
 _Sep Kamvar_
-
+&nbsp;
 ![Desktop View](/assets/images/Levy-Roger-160.jpg)
 _Roger Levy_
- 
+&nbsp;
 ![Desktop View](/assets/images/teg-grenager-160.jpg)
 _Teg Grenager_
- 
+&nbsp;
 ![Desktop View](/assets/images/Finkel-Jenny-160.jpg)
 _Jenny Finkel_
  
@@ -65,9 +69,9 @@ Archive is from 2000-10-29. Here's what the original page looked like:
 _Earliest save of the Stanford NLP Group web page in the Internet
 Archive_
 
-The name refects two dispreferences of Chris Manning against the
+The name “Stanford NLP Group” refects two dispreferences of Chris Manning against the
 common pattern of using names like “Smith Lab” (perhaps
-reflecting his linguistics background): He disapproved of naming
+reflecting his linguistics background?): He disapproved of naming
 groups after professors, when students are the mainstay of the
 research of any group and he thought using “lab” was a little silly
 when actually there was never going to be any laboratory for the group.

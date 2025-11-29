@@ -1,9 +1,10 @@
 ---
-title: Faculty Growth of the Stanford NLP Group
-date: 2025-11-22
-categories: [group, history]
-tags: [history, faculty] 
-description: A history of the Stanford NLP Group written for its 25th anniversary
+title: Growth of the group
+layout: page
+keywords: history, faculty
+# permalink: '/prehistory.html'
+nav_order: 3
+# parent: Introduction
 ---
 
 # Faculty Growth of the Stanford NLP Group

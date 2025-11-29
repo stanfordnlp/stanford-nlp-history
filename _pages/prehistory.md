@@ -1,9 +1,10 @@
 ---
-title: NLP at Stanford before the Stanford NLP Group
-date: 2025-11-23
-categories: [group, history]
-tags: [history, faculty] 
-description: A history of the Stanford NLP Group written for its 25th anniversary
+title: Prehistory of the Stanford NLP Group
+layout: page
+keywords: history, origins
+# permalink: '/prehistory.html'
+nav_order: 4
+# parent: Introduction
 ---
 
 # NLP at Stanford before the Stanford NLP Group 
@@ -24,11 +25,11 @@ PhD advisor of James Allen).
 
 ![Desktop View](/assets/images/Joyce-Friedman.jpg)
 _Joyce Friedman_
-
+&nbsp;
 ![Desktop View](/assets/images/Ray-Perrault.jpg)
 _C. Ray Perrault_
- 
-![Desktop View](/assets/images/David-Scott-Warren.gif)
+&nbsp; 
+![Desktop View](/assets/images/David-Scott-Warren-190.jpeg)
 _David Scott Warren_
  
 The other prominent early language technology person was Raj
@@ -44,7 +45,7 @@ Award for his pioneering research on speech recognition. PhD students
 of Raj Reddy include James Gosling, Kai-Fu Lee, Roni Rosenfeld, and
 Alex Waibel.
 
-![Desktop View](/assets/images/Raj-Reddy-220.jpg)
+![Desktop View](/assets/images/Raj-Reddy-220.jpeg)
 _Raj Reddy_
 
 The next NLP faculty at Stanford CS was Roger Schank (1946–2023;
@@ -52,17 +53,7 @@ Stanford CS faculty 1968–1973). Roger Schank
 Three of the 2025 Stanford NLP faculty are academic descendants of
 Roger Schank, as shown in the below partial family tree.
 
-```mermaid
-graph RS;
-    accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-	Jacob Mey --> Roger Schank;
-	Roger Schank --> Eduard Hovy;
-	Eduard Hovy --> **Diyi Yang**;
-	Roger Schank --> Jaime Carbonell
-```
-
-- Jacob Mey (a linguist specializing in pragmatics)
+- Jacob Mey *(a linguist specializing in pragmatics)*
     * **Roger Schank**
         - Eduard Hovy
 		    + **Diyi Yang**
@@ -81,5 +72,4 @@ graph RS;
 			+ James Martin
 			+ Marti Hearst
 			+ **Dan Jurafsky**
-			
-			
+
