@@ -55,6 +55,7 @@ internationally:
 - UBC NLP
 - UPenn NLP
 - Yale NLP
+- McGill NLP
 - HUJI NLP
 - BIU NLP
 - EdinburghNLP

@@ -96,7 +96,7 @@ Stanford. Here is [a video of
 SHRDLU](https://www.youtube.com/watch?v=QAJz4YKUwqw). Terry became
 disillusioned with the symbolic AI methods he had been trained in, and
 by around 1984, he had stopped doing AI and hence NLP, and began to
-reinvent himself as an human-computer interaction researcher. He
+reinvent himself as a human-computer interaction researcher. He
 founded the [Stanford HCI Group](https://hci.stanford.edu/) and for many years was its only faculty member.
 
 ![](../../assets/images/Terry-Winograd-300.jpg)
