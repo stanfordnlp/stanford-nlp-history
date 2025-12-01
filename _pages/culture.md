@@ -21,19 +21,22 @@ important to that culture are:
 - Invest actively in community maintenance
 
 In recent years, Dan Jurafsky in particular has assumed the central
-role in maintaining Stanford NLP Group culture – and ordering our food.
+role in maintaining Stanford NLP Group culture – and ordering our
+food. But beyond the faculty, we have benefited enormously from
+particular students over the years who have devoted a lot of time to maintaining and
+building the cohesion of the NLP Group.
 
 Since almost the beginning, Stanford NLP has had students in computer
 science and linguistics, and also occasionally students from
 psychology, electrical engineering, education, and computational and
-mathematical engineering. While CS students have always dominated
+mathematical engineering. While CS students have dominated
 numerically, we have always tried to give equal status and
 opportunities to everyone. We believe that the CS students have
 always benefited from their broader cross-disciplinary exposure in the
 group, while non-CS students usually benefit from the AI mindset of
 producing conference papers. 😊 Even when other universities have
-students in varies departments working on NLP, it is very rare that
-they actually have a unified group like ours.
+students in various departments working on NLP, it is rare that
+they have a unified group like ours.
 
 ![Desktop View](../../assets/images/ling-students-reading.jpg)
 

@@ -9,7 +9,7 @@ nav_order: 2
 
 # Origins of the Stanford NLP Group: 1999–2003
 
-Christopher Manning was hired in 1999 and came to Stanford for Fall
+Christopher Manning was hired and came to Stanford for Fall
 1999, becoming an Assistant Professor filling a newly created joint
 faculty position in Linguistics and Computer Science. Here are some
 early photos of Chris at Stanford from the Fall 1999 CS Department

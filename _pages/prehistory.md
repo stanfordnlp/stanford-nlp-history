@@ -19,7 +19,7 @@ Mathematics) and was the first woman on the CS Faculty. However, she
 moved in 1968 to the University of Michigan and then later to Boston
 University. She was President of the Association for Computational
 Linguistics in 1971 (again, as the first female president).
-Joyce worked on quite linguistic topics, such as implementing
+Joyce worked on topics such as implementing
 Chomsky's _Aspects_-era transformational grammar and formal reasoning.
 She was the advisor of several people who later became prominent
 including David Scott Warren and C. Ray Perrault (who in turn was the

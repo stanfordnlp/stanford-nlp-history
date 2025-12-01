@@ -9,6 +9,12 @@ nav_order: 9
 
 # Open-source code and datasets
 
+The group has put a lot of effort into achieving impact through open
+source software releases. As well as the efforts of faculty and
+students, we have been greatly aided in doing this by the people who
+have worked as research software engineers for the group: Chris Cox,
+Anna Rafferty, John Bauer, and Jason Bolton.
+
 ## Stanford CoreNLP
 
 Stanford NLP was an early proponent of releasing NLP software with

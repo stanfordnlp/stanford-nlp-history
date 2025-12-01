@@ -16,7 +16,7 @@ Group. Contributions of more photos welcome!
 
 These were held for many years at Chris Manning's house. They were
 open to people in the Bay Area working in NLP (unlike our group-only
-end-of-year BBQs. We stopped them in the 2020s due to
+end-of-year BBQs). We stopped them in the 2020s due to
 Covid-19. Afterwards, the NLP community in the Bay Area was far too
 large to consider restarting them.
 
@@ -59,7 +59,7 @@ large to consider restarting them.
 ![](../../assets/images/gates2013-2.jpg)
 ![](../../assets/images/gates2013-3.jpg)
 
-## 2021 First and only Stanford NLP Commencement Ceremony (!)
+## 2021 Covid-era Stanford NLP Commencement Ceremony (!)
 
 ![](../../assets/images/commencement-1.jpg)
 

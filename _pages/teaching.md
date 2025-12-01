@@ -50,7 +50,7 @@ _CS336_
 
 ## Classes at Stanford
 
-On campus, after a fairly quet first decade, enrollment in our NLP
+On campus, after a fairly quiet first decade, enrollment in our NLP
 classes has boomed by more than an order of magnitude. The first boom
 in enrollment came during the early neural NLP era (2012–2022), though
 things have certainly intensified again in the era of ChatGPT!

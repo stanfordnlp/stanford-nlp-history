@@ -8,7 +8,7 @@ nav_order: 1
 homepage: true
 ---
 
-![](../../assets/images/Stanford-NLP-side.png)
+![](assets/images/Stanford-NLP-side.png)
 
 # Natural Language Processing at Stanford
 

@@ -11,9 +11,9 @@ nav_order: 5
 
 ## The name
 
-The name “Stanford NLP Group” refected two dispreferences of Chris Manning against the
+The name “Stanford NLP Group” reflected two dispreferences of Chris Manning against the
 common pattern of using names like “Smith Lab” (perhaps
-reflecting his linguistics background?): He disapproved of naming
+because of his linguistics background?): He disapproved of naming
 groups after professors, when students are the mainstay of the
 research of any group and he thought using “lab” was a little silly
 when actually there was never going to be any laboratory for the group.
@@ -33,7 +33,7 @@ used, as far as we were aware. Some existing groups had particular
 names for their center: CLSP at JHU, IRCS at U. Penn, CMT and later
 LTI at CMU, UMIST at Manchester, CLEAR at U. Colorado, Boulder. Others
 were either named after people like “James Allen’s group” or unnamed
-facutly and their students, such as for Eugene Charniak at Brown or
+faculty and their students, such as for Eugene Charniak at Brown or
 Kathy McKeown at Columbia. In the 21st Century, our naming pattern
 spread to be the naming pattern of most NLP Groups in the US and
 internationally:
