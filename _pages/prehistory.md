@@ -91,7 +91,8 @@ Roger Schank, as shown in the below partial family tree.
 Roger Schank was followed by [Terry
 Winograd](https://en.wikipedia.org/wiki/Terry_Winograd) (1946–;
 Stanford CS faculty 1973–2012). Winograd’s most famous NLP system was
-SHRDLU, the blocks world that he wrote for his PhD prior to coming to
+SHRDLU, the blocks world with language understanding, planning, and
+reasoning that he wrote for his PhD prior to coming to
 Stanford. Here is [a video of
 SHRDLU](https://www.youtube.com/watch?v=QAJz4YKUwqw). Terry became
 disillusioned with the symbolic AI methods he had been trained in, and
