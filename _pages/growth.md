@@ -76,6 +76,8 @@ about 2010, and then has exploded in size so that there are now over
 
 ![](../../assets/images/2015_group_photo.jpg)
 
+### 2015 (Banquet at Peking duck restaurant during ACL 2015 in Beijing)
+
 ![](../../assets/images/IMG_0079_Stanford-NLP-in-Beijing.jpeg)
 
 ### 2016 (NLP Retreat)
